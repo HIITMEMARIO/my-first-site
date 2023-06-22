@@ -19,8 +19,17 @@ font-size:120px;
 text-align: center;
 border-bottom: 1px solid gray;
 margin:0;
-padding: 20px;
+  font-family: 'Rubik', sans-serif;
+  flex: 1;
+  position: relative;
+  text-align: center;
+  -webkit-text-fill-color: transparent;
+  background-image: url("tumblr_mhtyq0znUD1r3d8abo2_500.gif");
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
 }
+
 
 ol{
 border-right: 1px solid gray;
